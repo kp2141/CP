@@ -1,3 +1,8 @@
+'''
+    Hackerrank nested list problem solution
+'''
+
+
 if __name__ == '__main__':
     list = []
     for _ in range(int(input())):
@@ -28,7 +33,7 @@ if __name__ == '__main__':
 
 
 '''
-    Found efficient code 
+    Found efficient code (Editorial solution)
  ------------------------------------
  python version 2.7
     
